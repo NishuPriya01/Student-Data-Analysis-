@@ -39,7 +39,7 @@ plt.savefig("correlation_heatmap.png")
 plt.show()
 
 
-print("\n📌 KEY INSIGHTS:")
+print("\nKEY INSIGHTS:")
 print("1. Students who study more hours tend to have higher GPA.")
 print("2. Higher attendance is linked with better academic performance.")
 print("3. Tutoring has a positive impact on student results.")
