@@ -9,14 +9,14 @@ It explores how study hours, attendance, tutoring, and parental support affect G
 - Pandas  
 - Matplotlib  
 - Seaborn
-- 
+
 ## Dataset Features
 - Study Hours  
 - Attendance  
 - Tutoring  
 - Parental Support  
 - GPA
--  
+ 
 ## Analysis Performed
 - Data loading and preprocessing  
 - Conversion of categorical data into numeric values  
@@ -36,6 +36,6 @@ It explores how study hours, attendance, tutoring, and parental support affect G
 - Higher attendance improves performance  
 - Tutoring has a positive effect on results  
 - Parental support helps in better academic performance
-- 
+
 ## 🚀 Conclusion
 Student performance is influenced by study habits, attendance, and support systems.
